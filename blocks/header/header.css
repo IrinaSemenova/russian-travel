@@ -1,0 +1,27 @@
+.header {
+    max-width: calc(100% - 96px);
+    padding: 28px 0 56px;
+    margin: 0 auto;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+}
+
+@media (max-width: 768px) {
+    .header {
+        padding: 28px 0 48px; 
+    } 
+}
+
+@media (max-width: 320px) {
+    .header {
+        max-width: calc(100% - 32px);
+        padding: 16px 0 48px; 
+    } 
+}

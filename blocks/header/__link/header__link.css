@@ -1,0 +1,12 @@
+.header__link {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: auto 18px auto;
+    grid-template-columns: repeat(2, auto);
+    -webkit-column-gap: 18px;
+       -moz-column-gap: 18px;
+            column-gap: 18px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}

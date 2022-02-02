@@ -1,0 +1,44 @@
+.cover__text {
+    margin: 245px 312px;
+    z-index: 10;
+    padding: 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    color: #fff;
+}
+
+@media (max-width:1024px) {
+    .cover__text {
+        margin: 195px 323px;
+    }
+}
+
+@media (max-width:768px) {
+    .cover__text {
+        margin: 115px 104px;
+    }
+}
+
+@media  (max-width:589px) {
+    .cover__text {
+        margin: 42px 21px;/*32/200*265=42px 16/320*425=*/
+    }
+}
+
+
+@media (max-width:320px) {
+    .cover__text {
+        margin: 32px 16px;
+    }
+}
