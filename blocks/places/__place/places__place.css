@@ -47,8 +47,8 @@
 
 @media (max-width:768px) {
     .places__place {
-        -ms-grid-columns: 340px*352px;
-        grid-template-columns: 340px*352px;
+        -ms-grid-columns: 340px 352px;
+        grid-template-columns: 340px 352px;
         -webkit-column-gap: 28px;
            -moz-column-gap: 28px;
                 column-gap: 28px;
@@ -56,8 +56,8 @@
 }
 @media (max-width:767px) {
     .places__place {
-        -ms-grid-columns: 44.3vw 28px 45.6vw;
-        grid-template-columns: 44.3vw 45.6vw;
+        -ms-grid-columns: 44.3vw 28px 45.8vw;
+        grid-template-columns: 44.3vw 45.8vw;
         -webkit-column-gap: 28px;
            -moz-column-gap: 28px;
                 column-gap: 28px;
@@ -65,7 +65,7 @@
 }
 
 
-@media (max-width:425px) {
+@media (max-width:603px) {
     .places__place {
         -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
