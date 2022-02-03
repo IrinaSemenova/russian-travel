@@ -1,4 +1,12 @@
 .header__lang-link_active {
-    /*text-decoration-line: underline;*/
-    border-bottom: 1px solid #fff;
+    text-decoration-line: underline;
+    color: #fff;
+    -webkit-transition: 0.5s;
+     -o-transition: 0.5s;
+    transition: 0.5s;
 }
+
+.header__lang-link_active:hover {
+    opacity: 0.5;
+}
+
