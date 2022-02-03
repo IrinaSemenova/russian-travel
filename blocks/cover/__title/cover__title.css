@@ -3,7 +3,7 @@
     font-weight: 900;
     font-size: 72px;
     line-height: 76px;
-    margin: 0 auto 32px ;
+    margin: 0 auto 32px;
     text-align: center;
     max-width: 560px;
     z-index: 10;
@@ -22,7 +22,7 @@
     .cover__title {
         font-size: 32px;
         line-height: 35px;
-        margin: 0 auto 16px ;
+        margin: 0 auto 16px;
         max-width: 288px;
     }
 }
@@ -31,7 +31,7 @@
     .cover__title {
         font-size: 10vw;
         line-height: 10.93vw;
-        margin: 0 auto 16px ;
+        margin: 0 auto 16px;
         max-width: 90vw;
     }
 }
