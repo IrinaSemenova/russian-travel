@@ -4,9 +4,3 @@
        object-fit: cover;
     overflow: hidden;
 }
-
-@media (max-width:319px) {
-    .photo-grid__item {
-        max-width: 100vw;
-    }
-}

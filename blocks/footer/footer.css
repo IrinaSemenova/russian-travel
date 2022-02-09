@@ -32,11 +32,3 @@
     padding: 0 118px 24px 16px;
   } 
 }
-
-@media (max-width:320px) {
-  .footer {
-    display: block;
-    max-width: 186px;
-    padding: 0 118px 24px 16px;
-  } 
-}

@@ -35,6 +35,5 @@
     .places {
         max-width: 320px;
         margin: 64px 0 66px;
-        grid-row-gap: 50px;
     }
 }

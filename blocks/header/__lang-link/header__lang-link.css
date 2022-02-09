@@ -20,10 +20,3 @@
         line-height: 20px;
     }
 }
-
-@media (max-width: 319px) {
-    .header__lang-link {
-        font-size: 5.625vw;
-        line-height: 6.25vw;
-    }
-}

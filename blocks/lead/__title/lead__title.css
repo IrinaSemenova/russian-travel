@@ -24,10 +24,3 @@
         line-height: 44px;
     } 
 }
-@media (max-width: 319px) {
-    .lead__title {
-        max-width: 90vw;
-        font-size: 12.5vw;
-        line-height: 13.75vw;
-    } 
-}

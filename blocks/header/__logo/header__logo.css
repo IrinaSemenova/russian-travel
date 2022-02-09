@@ -17,10 +17,3 @@ height: 52px;
         height: 42px;
     }
 }
-
-@media (max-width: 319px) {
-    .header__logo {
-        width: 44.375vw;
-        height: 13.1vw;
-    }
-}

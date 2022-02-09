@@ -25,11 +25,3 @@
         max-width: 288px;
     }
 }
-
-@media (max-width:319px) {
-    .cover__subtitle {
-        font-size: 4.375vw;
-        line-height: 5vw;
-        max-width: 290vw;
-    }
-}
