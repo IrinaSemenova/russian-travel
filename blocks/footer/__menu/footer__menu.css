@@ -33,3 +33,4 @@
   grid-template-rows: repeat(5, -webkit-min-content);
   grid-template-rows: repeat(5, min-content);
 }
+}
